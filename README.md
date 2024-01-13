@@ -1,10 +1,4 @@
-# 基于SSM的图书馆管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**图书馆1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的图书馆管理系统1
 
 ## 1、项目介绍
 
@@ -31,35 +25,32 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111051486.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208111051486.jpg)
 
 ### 4.2其它 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052440.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208111052440.jpg)
 
-![图书详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052893.jpg)
+![图书详情](https://www.codeshop.fun/Typora-Images/202208111052893.jpg)
 
-![添加用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052598.jpg)
+![添加用户](https://www.codeshop.fun/Typora-Images/202208111052598.jpg)
 
-![查询用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052217.jpg)
+![查询用户](https://www.codeshop.fun/Typora-Images/202208111052217.jpg)
 
-![图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052618.jpg)
+![图书管理](https://www.codeshop.fun/Typora-Images/202208111052618.jpg)
 
-![添加图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052190.jpg)
+![添加图书](https://www.codeshop.fun/Typora-Images/202208111052190.jpg)
 
-![用户借书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052294.jpg)
+![用户借书](https://www.codeshop.fun/Typora-Images/202208111052294.jpg)
 
-![借书记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052116.jpg)
+![借书记录](https://www.codeshop.fun/Typora-Images/202208111052116.jpg)
 
-![借书类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052168.jpg)
+![借书类型管理](https://www.codeshop.fun/Typora-Images/202208111052168.jpg)
 
-![图书分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111052293.jpg)
+![图书分类管理](https://www.codeshop.fun/Typora-Images/202208111052293.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**图书馆1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
